@@ -1,6 +1,6 @@
 **JS-TEST**
 # Introduction
-This is my first JavaScript solo coding problem generated from scratch.
+This is my second JavaScript semi-solo coding using a *Class Struture and other ES6 Feature*.
 
 It's purpose was to display a dataset in a prescribed manner.
 
