@@ -1,4 +1,4 @@
-**JS-TEST**
+**JS-CLASS**
 # Introduction
 This is my second JavaScript semi-solo coding using a *Class Struture and other ES6 Feature*.
 
