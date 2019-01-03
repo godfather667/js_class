@@ -1,9 +1,10 @@
 **JS-CLASS**
 # Introduction
-This is my second JavaScript semi-solo coding using a *Class Struture and other ES6 Feature*.
+This is a class version using *Class Struture and other ES6 Feature*.
 
-It's purpose was to display a dataset in a prescribed manner.
+It's purpose was to display a dataset on the console. 
 
+The Data Store was implemented with maps in constant objects:
 ~~~~~~~~~~~~~~~~~~~~~~~~~javascript
   // Data Store
   const Parks = {
@@ -19,10 +20,9 @@ It's purpose was to display a dataset in a prescribed manner.
       yearBuilt: [1999, 2008, 2015, 1982],
       length: [2.5, .75, 1.5, 5.25]
   };
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 Using the initial data store, the project was compute and display to infromation is a prescribed format.
 
 Ths resulting result is shown below:
 
-![Figure [Coding Challenge 8]:Coding Challenge 8](coding8.png)
+![Figure [Class Version]:Class version](console_log.png)
